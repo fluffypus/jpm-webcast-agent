@@ -21,3 +21,63 @@ companies:
   Exscientia:
     domain: exscientia.ai
     extra_keywords: ["ai","drug discovery"]
+
+Pfizer:
+  domain: pfizer.com
+  extra_keywords: ["webcast", "presentation", "JPM"]
+
+Johnson & Johnson:
+  domain: jnj.com
+  extra_keywords: ["webcast", "investor", "presentation"]
+
+Novartis:
+  domain: novartis.com
+  extra_keywords: ["webcast", "events", "presentation"]
+
+Roche:
+  domain: roche.com
+  extra_keywords: ["webcast", "investor", "presentation"]
+
+Sanofi:
+  domain: sanofi.com
+  extra_keywords: ["webcast", "investors", "events"]
+
+AstraZeneca:
+  domain: astrazeneca.com
+  extra_keywords: ["webcast", "events", "presentation"]
+
+Merck:
+  domain: merck.com
+  extra_keywords: ["webcast", "investors", "presentation"]
+
+Bristol Myers Squibb:
+  domain: bms.com
+  extra_keywords: ["webcast", "events"]
+
+GSK:
+  domain: gsk.com
+  extra_keywords: ["webcast", "events"]
+
+Eli Lilly:
+  domain: lilly.com
+  extra_keywords: ["webcast", "investors", "presentation"]
+
+AbbVie:
+  domain: abbvie.com
+  extra_keywords: ["webcast", "events"]
+
+Amgen:
+  domain: amgen.com
+  extra_keywords: ["webcast", "investors"]
+
+Biogen:
+  domain: biogen.com
+  extra_keywords: ["webcast", "events"]
+
+Regeneron:
+  domain: regeneron.com
+  extra_keywords: ["webcast", "events"]
+
+Vertex:
+  domain: vrtx.com
+  extra_keywords: ["webcast", "events"]
