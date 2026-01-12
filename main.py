@@ -37,10 +37,12 @@ def run():
             domain = company_cfg.get("domain")
             extra_keywords = company_cfg.get("extra_keywords", [])
 
-            urls = [
-                f"https://{domain}/{path}"
-                for path in base_paths
-            ]
+            custom_urls = company_cfg.get("custom_urls")
+            if custom_urls:
+                urls = custom_urls
+            else:
+                urls = [f"https://{domain}/{path}" for path in base_paths]
+
 
             keywords = generic_keywords + extra_keywords
 
