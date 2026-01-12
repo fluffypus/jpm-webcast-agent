@@ -67,7 +67,7 @@ def run():
                         notify({
                             "company": company,
                             "session": session_name,
-                            "confidence": classify(score),
+                            "confidence": classify(score, domain, links),
                             "score": round(score, 2),
                             "links": links
                         })
