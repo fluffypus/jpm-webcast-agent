@@ -1,0 +1,21 @@
+defaults:
+  base_paths:
+    - investors
+    - news
+    - events
+
+  generic_keywords:
+    - webcast
+    - live
+    - replay
+    - jpm
+    - healthcare
+
+companies:
+  Insilico Medicine:
+    domain: insilico.com
+    extra_keywords: ["ai"]
+
+  Exscientia:
+    domain: exscientia.ai
+    extra_keywords: ["ai"]
