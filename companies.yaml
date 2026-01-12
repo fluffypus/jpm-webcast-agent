@@ -14,8 +14,10 @@ defaults:
 companies:
   Insilico Medicine:
     domain: insilico.com
-    extra_keywords: ["ai"]
+    custom_urls :
+    - https://ir.insilico.com/en/
+    extra_keywords: ["ai","drug discovery"]
 
   Exscientia:
     domain: exscientia.ai
-    extra_keywords: ["ai"]
+    extra_keywords: ["ai","drug discovery"]
