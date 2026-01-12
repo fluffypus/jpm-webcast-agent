@@ -22,3 +22,48 @@ companies:
     extra_keywords:
     - ai
     - drug discovery
+  AbbVie:
+    domain: abbvie.com
+    extra_keywords: []
+  Amgen:
+    domain: amgen.com
+    extra_keywords: []
+  AstraZeneca:
+    domain: astrazeneca.com
+    extra_keywords: []
+  Biogen:
+    domain: biogen.com
+    extra_keywords: []
+  Bristol Myers Squibb:
+    domain: bristolmyerssquibb.com
+    extra_keywords: []
+  Eli Lilly:
+    domain: elililly.com
+    extra_keywords: []
+  GSK:
+    domain: gsk.com
+    extra_keywords: []
+  Johnson & Johnson:
+    domain: johnsonandjohnson.com
+    extra_keywords: []
+  Merck:
+    domain: merck.com
+    extra_keywords: []
+  Novartis:
+    domain: novartis.com
+    extra_keywords: []
+  Pfizer:
+    domain: pfizer.com
+    extra_keywords: []
+  Regeneron:
+    domain: regeneron.com
+    extra_keywords: []
+  Roche:
+    domain: roche.com
+    extra_keywords: []
+  Sanofi:
+    domain: sanofi.com
+    extra_keywords: []
+  Vertex:
+    domain: vertex.com
+    extra_keywords: []
