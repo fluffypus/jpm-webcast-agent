@@ -1,0 +1,10 @@
+sessions:
+  - name: "AI-Driven Drug Discovery"
+    date: "2026-01-12"
+    start_cet: "22:30"
+    end_cet: "23:30"
+    themes: ["AI"]
+    priority: HIGH
+    companies:
+      - Insilico Medicine
+      - Exscientia
