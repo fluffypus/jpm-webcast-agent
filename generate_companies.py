@@ -27,10 +27,9 @@ def main():
     sessions = agenda.get("sessions", [])
 
     # sociétés trouvées dans l'agenda
-    companies_in_agenda = set()
-    for s in sessions:
-        for c in s.get("companies", []):
-            companies_in_agenda.add(c)
+    universe = load_yaml("universe.yaml")
+    companies_in_agenda = set(universe.get("companies", []))
+
 
     # structure de sortie
     output = {
